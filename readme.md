@@ -60,5 +60,30 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 
 [Leia mais](https://elpais.com/tecnologia/2024-10-25/los-danos-de-la-ia-suicidio-aprovechar-la-muerte-de-extranos-crear-deepfakes-pornograficos-y-productos-defectuosos.html)
 
-## 🎶 Nvidia Apresenta Gerador de Áudio por IA que Cria Sons Inéditos
- 
+# 📰 Notícias Recentes sobre Inteligência Artificial (23 a 29 de Novembro de 2024)
+
+## 🎶 Nvidia Apresenta Fugatto: IA que Gera Sons Inéditos
+
+Em 25 de novembro de 2024, a Nvidia lançou o Fugatto, um modelo de inteligência artificial capaz de criar sons completamente novos, como um trompete que imita um miado ou latidos transformados em música eletrônica. O Fugatto permite a composição musical e a criação de efeitos sonoros por meio de comandos textuais ou áudios de referência, demonstrando o potencial criativo da IA no campo do design sonoro e musical.
+
+[Leia mais](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
+
+## 📱 Google Desenvolve Gemini para Ações Dentro de Aplicativos
+
+Em 22 de novembro de 2024, o Google revelou avanços no desenvolvimento do Gemini, uma inteligência artificial integrada ao sistema Android 16. O Gemini permite que usuários realizem ações diretamente em aplicativos, como fazer pedidos em restaurantes ou gerenciar tarefas, sem a necessidade de abrir os apps. Essa funcionalidade utiliza a nova API "app functions", aumentando a interatividade entre o sistema operacional e os aplicativos.
+
+[Leia mais](https://www.theverge.com/2024/11/22/24303329/google-gemini-android-16-app-functions)
+
+## 🚗 Uber Entra no Negócio de Rotulagem de IA com Trabalhadores Gig
+
+Em 27 de novembro de 2024, a Uber lançou a Scaled Solutions, uma divisão dedicada à rotulagem de dados para inteligência artificial. A empresa utiliza trabalhadores freelancers para realizar a análise e rotulagem de grandes volumes de dados, uma etapa essencial no treinamento de modelos de aprendizado de máquina. A iniciativa busca atender à crescente demanda global por dados rotulados para IA, conectando empresas com operadores de dados.
+
+[Leia mais](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)
+
+## 🗂️ Microsoft Esclarece Uso de Dados do Office no Treinamento de IA
+
+No dia 27 de novembro de 2024, a Microsoft respondeu a preocupações sobre o uso de dados do Microsoft 365, como Word e Excel, no treinamento de modelos de IA. A empresa afirmou categoricamente que não utiliza os dados dos clientes para treinar modelos de linguagem de grande porte, assegurando que a privacidade dos usuários é mantida.
+
+[Leia mais](https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors)
+
+---
