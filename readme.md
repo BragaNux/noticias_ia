@@ -10,6 +10,8 @@ Em 22 de novembro de 2024, a Amazon anunciou um investimento adicional de US$ 4 
 
 Este movimento é parte de uma estratégia maior para integrar IA em seus serviços de cloud computing (AWS) e expandir o uso da tecnologia em diversos setores, desde comércio eletrônico até logística.
 
+![anthropc](https://github.com/user-attachments/assets/2fd6a5ae-57c6-4696-942b-f06f1cb03c85)
+
 [Leia mais](https://www.reuters.com/pt/tecnologia/B2IQQ3ABXVONBLLAQV3YWONK6I-2024-11-22/)
 
 ---
@@ -19,6 +21,8 @@ Este movimento é parte de uma estratégia maior para integrar IA em seus servi�
 A startup Perplexity AI, que já impressionava com seu motor de busca baseado em IA, anunciou a introdução de um "centro de compras" projetado para transformar a experiência de busca por produtos. Agora, os usuários podem obter respostas específicas sobre produtos e comparar detalhes, como preço e especificações técnicas, de maneira mais eficiente. A integração com plataformas de comércio eletrônico como Shopify fortalece sua presença no mercado.
 
 O diferencial é o recurso "Snap to Shop", que permite ao usuário tirar uma foto de qualquer item e receber recomendações de produtos semelhantes. Essa inovação coloca a Perplexity em uma posição competitiva contra gigantes como o Google, que dominam o setor de buscas.
+
+![Perplexity](https://github.com/user-attachments/assets/482a05a0-9b86-435d-86e2-d04d32043a57)
 
 [Leia mais](https://www.reuters.com/pt/tecnologia/EWSVTRRBEBIKDAFKA7SOILG7SA-2024-11-18/)
 
@@ -30,6 +34,8 @@ Entre os dias 20 e 22 de novembro de 2024, Granada sediou o Segundo Congresso In
 
 Além das discussões sobre avanços tecnológicos, o congresso anunciou a criação do Centro Andaluz de Inteligência Artificial e um laboratório de pesquisa em computação quântica. Esses projetos posicionam Granada como um polo estratégico para inovação e desenvolvimento de IA na Europa.
 
+![Granada](https://github.com/user-attachments/assets/b1ef3741-2cce-4285-b0cf-53ca52601cad)
+
 [Leia mais](https://cadenaser.com/andalucia/2024/11/20/el-congreso-de-inteligencia-artificial-y-otro-de-telecomunicaciones-refuerzan-la-granada-la-de-la-ciencia-radio-granada/)
 
 ---
@@ -39,6 +45,8 @@ Além das discussões sobre avanços tecnológicos, o congresso anunciou a cria�
 A Folha de S.Paulo publicou um artigo aprofundado sobre como a IA está transformando o sistema de justiça penal. Algoritmos estão sendo utilizados para automatizar tarefas burocráticas, como análise de documentos e organização de dados, o que acelera processos investigativos. No entanto, o texto alerta que o uso indevido desses sistemas pode levar a decisões enviesadas, impactando diretamente a vida das pessoas.
 
 O artigo também discute a importância de regulamentações claras que garantam o uso ético da tecnologia, destacando que a automação não pode comprometer os direitos fundamentais.
+
+![robo-tjpe](https://github.com/user-attachments/assets/6770247e-dd74-4612-bd56-51c61a5dd1ed)
 
 [Leia mais](https://www1.folha.uol.com.br/tec/2024/11/o-uso-etico-e-responsavel-da-inteligencia-artificial-no-direito-penal.shtml)
 
@@ -50,6 +58,8 @@ Durante o Evento Tendências 2024, o filósofo Éric Sadin abordou o impacto tra
 
 O debate gerou reflexões sobre como a dependência da IA pode comprometer a autonomia humana. Sadin alertou que, embora a tecnologia ofereça conveniência, ela também nos distancia da experiência genuína de tomada de decisão.
 
+![impacto_ia](https://github.com/user-attachments/assets/078d7e3e-011d-47f2-8ee8-a442577faf73)
+
 [Leia mais](https://elpais.com/proyecto-tendencias/2024-11-11/eric-sadin-filosofo-la-ia-modificara-la-naturaleza-del-ser-humano.html)
 
 ---
@@ -59,6 +69,8 @@ O debate gerou reflexões sobre como a dependência da IA pode comprometer a aut
 A Nvidia lançou o Fugatto, uma ferramenta que utiliza IA para criar sons e músicas inéditos. A inovação permite transformar instruções textuais em composições sonoras, como criar um saxofone que emite latidos ou combinar sons naturais em uma peça musical.
 
 Este avanço abre novas possibilidades no campo artístico, permitindo que designers de som e músicos experimentem com sons nunca antes imaginados.
+
+![nvidia](https://github.com/user-attachments/assets/c8b8c3ca-0794-4ad8-99a7-c24c6ebaf017)
 
 [Leia mais](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 
@@ -70,6 +82,8 @@ A Uber anunciou a Scaled Solutions, uma iniciativa que conecta empresas a trabal
 
 Com essa iniciativa, pequenos negócios podem acessar trabalhadores qualificados, ampliando o impacto da tecnologia de IA em diferentes indústrias.
 
+![Uber](https://github.com/user-attachments/assets/e634cff0-1ced-47ff-9434-ffd6c7fccc3c)
+
 [Leia mais](https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce)
 
 ---
@@ -77,6 +91,8 @@ Com essa iniciativa, pequenos negócios podem acessar trabalhadores qualificados
 ## 🗂️ Microsoft Responde a Rumores sobre Privacidade no Office 365
 
 Após rumores de que dados armazenados no Microsoft 365 estavam sendo utilizados para treinar modelos de IA, a Microsoft esclareceu que não usa informações de clientes para essa finalidade. A empresa reafirmou seu compromisso com a privacidade e segurança dos dados, garantindo que eles permanecem protegidos contra uso não autorizado.
+
+![microsoft](https://github.com/user-attachments/assets/4b9d792b-ad94-4fbd-b605-15a8241d3e0e)
 
 [Leia mais](https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors)
 
