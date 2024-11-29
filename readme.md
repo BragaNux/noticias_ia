@@ -42,6 +42,25 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 
 ---
 
+Referencia das Noticias;
 
-::contentReference[oaicite:10]{index=10}
+Amazon Dobra Investimento na Startup de IA Anthropic: Publicado pela Reuters em 22 de novembro de 2024.
+
+Perplexity Introduz Recursos de Compras com IA: Publicado pela Reuters em 18 de novembro de 2024.
+
+Congresso Internacional de Inteligência Artificial em Granada: Publicado pela Cadena SER em 20 de novembro de 2024.
+
+Reflexões sobre o Uso Ético da IA no Direito Penal: Publicado pela Folha de S.Paulo em 22 de novembro de 2024.
+
+Impactos da IA na Natureza Humana: Publicado pelo El País em 11 de novembro de 2024.
+
+Considerações sobre a IA no Cotidiano: Publicado pelo G1 em 28 de novembro de 2024.
+
+Discussões sobre Transparência e Uso de IA no Jornalismo: Publicado pelo Observatório da Imprensa em 22 de novembro de 2024.
+
+Anúncios de Natal da Coca-Cola Gerados por IA: Publicado pela Folha de S.Paulo em 23 de novembro de 2024.
+
+Peter Diamandis sobre o Futuro da IA: Publicado pelo Cinco Días em 13 de novembro de 2024.
+
+Danos Potenciais da IA: Deepfakes e Desinformação: Publicado pelo El País em 25 de outubro de 2024.
 
