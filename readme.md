@@ -2,13 +2,13 @@
 
 ## 📈 Amazon Dobra Investimento na Startup de IA Anthropic
 
-Em 22 de novembro de 2024, a Amazon anunciou um investimento adicional de US$ 4 bilhões na Anthropic, uma startup reconhecida por seu chatbot de IA generativa, Claude. Este movimento posiciona a Amazon como investidora minoritária significativa e principal parceira de treinamento da Anthropic, intensificando a concorrência com Microsoft e Google no fornecimento de ferramentas baseadas em IA na computação em nuvem.
+Em 22 de novembro de 2024, a Amazon anunciou um investimento adicional de US$ 4 bilhões na Anthropic, conhecida por seu chatbot de IA generativa, Claude. Com isso, a Amazon reforça sua posição como investidora minoritária e principal parceira de treinamento da Anthropic, intensificando a competição com Microsoft e Google no fornecimento de ferramentas baseadas em IA na computação em nuvem.
 
 [Leia mais](https://www.reuters.com/pt/tecnologia/B2IQQ3ABXVONBLLAQV3YWONK6I-2024-11-22/)
 
 ## 🛍️ Perplexity Introduz Recursos de Compras com IA
 
-A startup de inteligência artificial Perplexity lançou um novo centro de compras, visando atrair usuários e competir com o Google no setor de mecanismos de pesquisa. A empresa, apoiada por Jeff Bezos e Nvidia, apresenta cartões de produtos que exibem detalhes dos itens em resposta a perguntas de compras, integrados com plataformas como Shopify. Além disso, introduziu o 'Snap to Shop', uma ferramenta de pesquisa visual que identifica produtos a partir de fotos enviadas pelos usuários.
+A startup de inteligência artificial Perplexity lançou um novo centro de compras para atrair usuários e competir com o Google no setor de mecanismos de pesquisa. A empresa, apoiada por Jeff Bezos e Nvidia, oferece cartões de produtos que exibem detalhes de itens em resposta a perguntas de compras, integrados com plataformas como Shopify. Além disso, introduziu o 'Snap to Shop', uma ferramenta de pesquisa visual que encontra produtos a partir de fotos dos usuários.
 
 [Leia mais](https://www.reuters.com/pt/tecnologia/EWSVTRRBEBIKDAFKA7SOILG7SA-2024-11-18/)
 
@@ -60,5 +60,5 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 
 [Leia mais](https://elpais.com/tecnologia/2024-10-25/los-danos-de-la-ia-suicidio-aprovechar-la-muerte-de-extranos-crear-deepfakes-pornograficos-y-productos-defectuosos.html)
 
----
+## 🎶 Nvidia Apresenta Gerador de Áudio por IA que Cria Sons Inéditos
  
