@@ -61,7 +61,4 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 [Leia mais](https://elpais.com/tecnologia/2024-10-25/los-danos-de-la-ia-suicidio-aprovechar-la-muerte-de-extranos-crear-deepfakes-pornograficos-y-productos-defectuosos.html)
 
 ---
-
-Este documento foi elaborado com base em fontes confiáveis para fornecer uma visão abrangente dos desenvol
-::contentReference[oaicite:0]{index=0}
  
