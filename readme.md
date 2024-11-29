@@ -42,7 +42,7 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 
 ---
 
-Referencia das Noticias;
+## Referencia das Noticias;
 
 Amazon Dobra Investimento na Startup de IA Anthropic: Publicado pela Reuters em 22 de novembro de 2024.
 
@@ -63,4 +63,28 @@ Anúncios de Natal da Coca-Cola Gerados por IA: Publicado pela Folha de S.Paulo 
 Peter Diamandis sobre o Futuro da IA: Publicado pelo Cinco Días em 13 de novembro de 2024.
 
 Danos Potenciais da IA: Deepfakes e Desinformação: Publicado pelo El País em 25 de outubro de 2024.
+
+## Link diretório de cada Noticia;
+
+Amazon Dobra Investimento na Startup de IA Anthropic: https://www.reuters.com/pt/tecnologia/B2IQQ3ABXVONBLLAQV3YWONK6I-2024-11-22/
+
+Perplexity Introduz Recursos de Compras com IA: https://www.reuters.com/pt/tecnologia/EWSVTRRBEBIKDAFKA7SOILG7SA-2024-11-18/
+
+Congresso Internacional de Inteligência Artificial em Granada: https://cadenaser.com/andalucia/2024/11/20/el-congreso-de-inteligencia-artificial-y-otro-de-telecomunicaciones-refuerzan-la-granada-la-de-la-ciencia-radio-granada/
+
+Reflexões sobre o Uso Ético da IA no Direito Penal: https://www1.folha.uol.com.br/tec/2024/11/o-uso-etico-e-responsavel-da-inteligencia-artificial-no-direito-penal.shtml
+
+Impactos da IA na Natureza Humana: https://elpais.com/proyecto-tendencias/2024-11-11/eric-sadin-filosofo-la-ia-modificara-la-naturaleza-del-ser-humano.html
+
+Considerações sobre a IA no Cotidiano: https://g1.globo.com/pr/parana/especial-publicitario/faculdade-uniguacu/noticia/2024/11/28/a-inteligencia-artificial-faz-parte-do-seu-dia-a-dia-e-voce-nao-percebe.ghtml
+
+Discussões sobre Transparência e Uso de IA no Jornalismo: https://www.observatoriodaimprensa.com.br/inteligencia-artificial/pratica-jornalistica-reflexoes-sobre-transparencia-e-o-uso-de-ia/
+
+Anúncios de Natal da Coca-Cola Gerados por IA: https://www1.folha.uol.com.br/folha-topicos/tecnologia/
+
+Peter Diamandis sobre o Futuro da IA: https://cincodias.elpais.com/companias/2024-11-13/peter-diamandis-la-inteligencia-artificial-barrera-a-la-humanidad-como-un-tsunami.html
+
+Danos Potenciais da IA: Deepfakes e Desinformação: https://elpais.com/tecnologia/2024-10-25/los-danos-de-la-ia-suicidio-aprovechar-la-muerte-de-extranos-crear-deepfakes-pornograficos-y-productos-defectuosos.html
+
+Esses links direcionam para as fontes originais das notícias mencionadas.
 
