@@ -60,8 +60,6 @@ Reportagem do El País aborda os danos potenciais da inteligência artificial, c
 
 [Leia mais](https://elpais.com/tecnologia/2024-10-25/los-danos-de-la-ia-suicidio-aprovechar-la-muerte-de-extranos-crear-deepfakes-pornograficos-y-productos-defectuosos.html)
 
-# 📰 Notícias Recentes sobre Inteligência Artificial (23 a 29 de Novembro de 2024)
-
 ## 🎶 Nvidia Apresenta Fugatto: IA que Gera Sons Inéditos
 
 Em 25 de novembro de 2024, a Nvidia lançou o Fugatto, um modelo de inteligência artificial capaz de criar sons completamente novos, como um trompete que imita um miado ou latidos transformados em música eletrônica. O Fugatto permite a composição musical e a criação de efeitos sonoros por meio de comandos textuais ou áudios de referência, demonstrando o potencial criativo da IA no campo do design sonoro e musical.
